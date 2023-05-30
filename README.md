@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cryptonerdcn
-- 👀 I’m interested in Blockchain & VR
-- 🌱 I’m currently learning solidity
+- 👀 I’m interested in Blockchain & AI
+- 🌱 I’m currently learning Cairo lang
 - 💞️ I’m looking to collaborate on Blockchain develop.
 - 📫 How to reach me https://twitter.com/cryptonerdcn
 
